@@ -4,7 +4,10 @@ Purple
 Pink
 Orange
 Blue
-Green
+
 Yellow
 Red
+Green
+I can sing a rainbow.
+
 These are the colours of the rainbow.
